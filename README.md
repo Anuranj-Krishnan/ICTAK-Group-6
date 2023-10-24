@@ -1,6 +1,6 @@
 # ICTAK Website Automation Testing
 
-This repository contains Java code for automating the testing of the ICTAK website. The code is authored by Anuranj Krishnan, Athira M N, Jithin Shaji, Kiran Krishna R, Manjupriya P, and Nithin Bastian George.
+This repository contains Java code for automating the testing of the ICTAK website. The code is authored by group 6 of KKEM ST July 2022.
 
 ## Project Structure
 
@@ -41,8 +41,8 @@ This repository contains Java code for automating the testing of the ICTAK websi
 ## Contributors
 
 - Anuranj Krishnan
+- [Kiran Krishna R](https://github.com/kirankrishnaR)
+- [Manjupriya P](https://github.com/manjupriyap)
+- [Nithin Bastian George](https://github.com/nithinbastian)
 - Athira M N
 - Jithin Shaji
-- Kiran Krishna R
-- Manjupriya P
-- Nithin Bastian George
