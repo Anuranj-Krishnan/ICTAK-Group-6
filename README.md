@@ -40,7 +40,7 @@ This repository contains Java code for automating the testing of the ICTAK websi
 
 ## Contributors
 
-- Anuranj Krishnan
+- [Anuranj Krishnan](https://github.com/Anuranj-Krishnan/)
 - [Kiran Krishna R](https://github.com/kirankrishnaR)
 - [Manjupriya P](https://github.com/manjupriyap)
 - [Nithin Bastian George](https://github.com/nithinbastian)
